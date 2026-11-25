@@ -1,6 +1,6 @@
 # Book Santa 
 
-*Because every book deserves another reader. 💗*
+*Because every book deserves another reader. :santa: *
 
 One of my early React Native projects, built around a simple idea.... **what if the books sitting unread on our shelves could find their way to someone who really wanted them?**
 
@@ -33,7 +33,7 @@ Book Santa is a book-sharing and donation app prototype that connects readers wi
 | **React Native Elements** | Reusable interface components |
 | **SwipeListView** | Swipeable notifications |
 
-## ⚙️How It Works
+## How It Works
 
 The idea was to create a complete little book-sharing workflow:
 
