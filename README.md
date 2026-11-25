@@ -1,6 +1,6 @@
 # Book Santa 
 
-*Because every book deserves another reader. :santa: *
+*Because every book deserves another reader*
 
 One of my early React Native projects, built around a simple idea.... **what if the books sitting unread on our shelves could find their way to someone who really wanted them?**
 
