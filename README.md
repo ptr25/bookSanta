@@ -19,7 +19,7 @@ Book Santa is a book-sharing and donation app prototype that connects readers wi
 -  **Track Donations:** Manage donation requests and update their status from *Donor Interested* to *Book Sent*.
 -  **Profile Management:** Update personal details such as name, contact information, and address.
 
-##  Built With Love and 
+##  Built With Curiosity and 
 
 | Technology | What I Used It For |
 |---|---|
